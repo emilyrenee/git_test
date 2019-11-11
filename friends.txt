@@ -4,3 +4,7 @@ Thomas Manley
 John Laswell
 Kyle Nieber
 Brandon Stephens
+Chas Lynch
+Patrick Hill
+Tanner Kerr
+Brian Webb
